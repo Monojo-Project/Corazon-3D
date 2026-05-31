@@ -8,4 +8,6 @@ make
 ```
 Y se creará un binario llamado corazon_3d.
 
-> El código depende de Qt5/Qt6 instalado en el sistema Linux
+Soporta Qt5, Qt6 y GTK. Comienza en pantalla completa y para salir tienes que presionar Esc, F11 o Alt + F.
+
+Necesitas tener OpenGL instalado.
