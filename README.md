@@ -7,3 +7,5 @@ Abrir una terminal en la carpeta del repositorio descargado y pon:
 make
 ```
 Y se creará un binario llamado corazon_3d.
+
+> El código depende de Qt5/Qt6 instalado en el sistema Linux
